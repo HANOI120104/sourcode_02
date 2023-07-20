@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.section-collection{
+    margin-top: 50px;
+}
+.wrapper-heading-home{
+    align-items: center;
+    text-align: center;
+}
+.wrapper-heading-home a{
+    text-decoration: none;
+    color: #191919;
+    text-align: center;
+    font-family: 'Quicksand';
+}
